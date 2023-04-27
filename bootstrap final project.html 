@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./styles/styles.css">
+    <title>My Second Page</title>
+</head>
+<body>
+    <h1 id="top">My Second Page</h1>
+    <a href="./html/chicagoinfo.html">Chicago Page</a>
+    <h2>Favorite Photos Nature</h2>
+    <ul>
+        <li>San Diego, CA</li>
+        <li>New York, NY</li>
+        <li class="emphasizedText">San Fransisco, CA</li>
+    </ul>
+    <h2>Places I Want To Take Pictures!</h2>
+    <ol>
+        <li>Zambia</li>
+        <li>Brazil</li>
+        <li class="emphasizedText">Portland</li>
+    </ol>
+    <br>
+    <p>My inspiration!</p>
+    <img src="./Images/Chicago.jpg" atl="Chicago" width="300">
+    <br>
+    <a href="https://www.nationalgeographic.com/" target="_blank">Nat Geo</a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <a href="#top">Go to the top</a>
+</body>
+</html>
